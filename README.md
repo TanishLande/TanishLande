@@ -4,9 +4,6 @@ Hi, I'm Tanish Lande 👋
 
 I'm a software developer with a passion for open source and community building.
 
-##Vision
-If a person cant be user they are just burden to this world so learn new stuff and be useful.
-
 ## Skills
 
 ### Programming Languages
