@@ -1,16 +1,47 @@
-## Hi there 👋
+# About Me
 
-<!--
-**TanishLande/TanishLande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Tanish Lande 👋
 
-Here are some ideas to get you started:
+I'm a software developer with a passion for open source and community building.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Vision
+If a person cant be user they are just burden to this world so learn new stuff and be useful.
+
+## Skills
+
+### Programming Languages
+
+- C
+- Java
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- PHP
+- Python
+
+### Frameworks and Libraries
+
+- React.js
+- Next.js
+- Flutter (frontend)
+
+### Databases
+
+- MySQL
+- NoSQL (MongoDB)
+
+### Tools and Platforms
+
+- Godot
+- Android Studio (frontend)
+
+### Fields
+
+- AI/ML
+
+## Contact
+
+- Email: tanishlande10@gmail.com
+- Twitter: https://x.com/tanish_lande
+
