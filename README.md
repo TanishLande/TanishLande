@@ -6,6 +6,9 @@ I'm a software developer with a passion for open source and community building.
 
 ## Skills
 
+<!-- HTML to include and style the image -->
+<img src="D:\logos_for_github.jpg" alt="Tanish Lande" style="width:200px;height:auto;border-radius:50%;margin-bottom:20px;">
+
 ### Programming Languages
 
 - C
