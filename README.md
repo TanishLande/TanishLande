@@ -26,7 +26,7 @@ I'm a software developer with a passion for open source and community building.
 ### Databases
 
 - MySQL
-- NoSQL (MongoDB)
+- NoSQL (MongoDB, Json)
 
 ### Tools and Platforms
 
