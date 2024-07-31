@@ -32,6 +32,9 @@ I'm a passionate software developer with a strong interest in open source and co
 ### Fields of Interest
 - **Artificial Intelligence / Machine Learning (AI/ML)**
 
+## More About Me 
+I live creating things and learning some complex algorithm. I would love to see the future for technology how amazing it would be so sit sit and let machine do all your work. Thid would have been a reality today is every person would have contributed some or other thing instead of wasting time we would have been 100 year further. Lets make this work a better place to live.
+
 ## Contact
 
 - **Email:** [tanishlande10@gmail.com](mailto:tanishlande10@gmail.com)
