@@ -33,7 +33,8 @@ I'm a passionate software developer with a strong interest in open source and co
 - **Artificial Intelligence / Machine Learning (AI/ML)**
 
 ## More About Me 
-I live creating things and learning some complex algorithm. I would love to see the future for technology how amazing it would be so sit sit and let machine do all your work. Thid would have been a reality today is every person would have contributed some or other thing instead of wasting time we would have been 100 year further. Lets make this work a better place to live.
+
+Passionate creator and algorithm enthusiast with a vision for a tech-driven future. I believe in the power of collective innovation to accelerate human progress. My goal is to contribute meaningful advancements that will shape a world where technology enhances our lives and unlocks human potential. Join me in building a better tomorrow through creativity, learning, and relentless innovation.
 
 ## Contact
 
