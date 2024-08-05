@@ -4,19 +4,21 @@
 
 <h3 align="center">A passionate developer from India</h3>
 
-<p style="text-align: right; margin: 0; padding: 0;">
+<p style="text-align: right; margin: 0; padding: 0; position: absolute; top: 0; right: 0;">
     <img src="https://komarev.com/ghpvc/?username=tanishlande&label=Profile%20views&color=0e75b6&style=flat" alt="tanishlande" />
 </p>
+
 
 <p align="center"> <a href="https://twitter.com/tanish_lande" target="blank"><img src="https://img.shields.io/twitter/follow/tanish_lande?logo=twitter&style=for-the-badge" alt="tanish_lande" /></a> </p>
 
 <p align="center">
-- 🔭 I’m currently working on **Music_app**<br>
-- 🌱 I’m currently learning **AIML**<br>
-- 📝 I regularly write articles on <a href="https://x.com/tanish_lande">https://x.com/tanish_lande</a><br>
-- 💬 Ask me about **Web Development, Ai(neural network) and Mobile Application Developer**<br>
-- 📫 How to reach me **tanishlande10@gmail.com**<br>
-- ⚡ Fun fact **I love learning new stuff.**
+- 🔭 I’m currently working on **Music_app**  
+- 🌱 I’m currently learning **AIML**  
+- 📝 I regularly write articles on [**Twitter**](https://x.com/tanish_lande)  
+- 💬 Ask me about **Web Development, AI (neural networks), and Mobile Application Development**  
+- 📫 How to reach me: **tanishlande10@gmail.com**  
+- ⚡ Fun fact: **I love learning new stuff.**  
+
 </p>
 
 <h3 align="center">Connect with me:</h3>
