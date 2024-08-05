@@ -12,12 +12,12 @@
 <p align="center"> <a href="https://twitter.com/tanish_lande" target="blank"><img src="https://img.shields.io/twitter/follow/tanish_lande?logo=twitter&style=for-the-badge" alt="tanish_lande" /></a> </p>
 
 <p align="center">
-🔭 I'm currently working on **Music_app** &nbsp;&nbsp;
-🌱 I'm currently learning **AIML** &nbsp;&nbsp;
-📝 I regularly write articles on [**Twitter**](https://x.com/tanish_lande) &nbsp;&nbsp;
-💬 Ask me about **Web Development, AI (neural networks), and Mobile Application Development** &nbsp;&nbsp;
-📫 How to reach me: **tanishlande10@gmail.com** &nbsp;&nbsp;
-⚡ Fun fact: **I love learning new stuff.**
+-🔭 I'm currently working on **Music_app** &nbsp;&nbsp;
+-🌱 I'm currently learning **AIML** &nbsp;&nbsp;
+-📝 I regularly write articles on [**Twitter**](https://x.com/tanish_lande) &nbsp;&nbsp;
+-💬 Ask me about **Web Development, AI (neural networks), and Mobile Application Development** &nbsp;&nbsp;
+-📫 How to reach me: **tanishlande10@gmail.com** &nbsp;&nbsp;
+-⚡ Fun fact: **I love learning new stuff.**
 </p>
 
 
