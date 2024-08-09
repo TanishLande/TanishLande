@@ -13,16 +13,24 @@
 <p align="center">
 <ul>
   <li>
-        -🔭 I'm currently working on Web_Developmeny &nbsp;&nbsp <br/> 
+        -🔭 I'm currently working on Web_Development &nbsp;&nbsp <br/> 
    <li/> 
-       
+  <li>
+      -🌱 I'm currently learning <b>AIML<b/>&nbsp;&nbsp <br/>
+  </li>     
+  <li>
+      -📝 I regularly write articles on Twitter(https://x.com/tanish_lande) &nbsp;&nbsp <br/>
+  </li>
+  <li>
+      -💬 Ask me about Web Development, AI (neural networks), and Mobile Application Development &nbsp;&nbsp <br/>
+  </li>        
+  <li>
+      -📫 How to reach me: tanishlande10@gmail.com &nbsp;&nbsp <br/>
+  </li>        
+  <li>
+     -⚡ Fun fact: I love learning new stuff. 
+  </li>        
 <ul/>
-
--🌱 I'm currently learning <b>AIML<b/>&nbsp;&nbsp <br/>
--📝 I regularly write articles on Twitter(https://x.com/tanish_lande) &nbsp;&nbsp <br/>
--💬 Ask me about Web Development, AI (neural networks), and Mobile Application Development &nbsp;&nbsp <br/>
--📫 How to reach me: tanishlande10@gmail.com &nbsp;&nbsp <br/>
--⚡ Fun fact: I love learning new stuff.
 </p>
 
 
