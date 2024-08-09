@@ -11,7 +11,13 @@
 <p align="center"> <a href="https://twitter.com/tanish_lande" target="blank"><img src="https://img.shields.io/twitter/follow/tanish_lande?logo=twitter&style=for-the-badge" alt="tanish_lande" /></a> </p>
 
 <p align="center">
--🔭 I'm currently working on Web_Developmeny &nbsp;&nbsp <br/> 
+<ul>
+  <li>
+        -🔭 I'm currently working on Web_Developmeny &nbsp;&nbsp <br/> 
+   <li/> 
+       
+<ul/>
+
 -🌱 I'm currently learning <b>AIML<b/>&nbsp;&nbsp <br/>
 -📝 I regularly write articles on Twitter(https://x.com/tanish_lande) &nbsp;&nbsp <br/>
 -💬 Ask me about Web Development, AI (neural networks), and Mobile Application Development &nbsp;&nbsp <br/>
