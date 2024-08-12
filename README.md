@@ -9,6 +9,9 @@
 
 
 <p align="center"> <a href="https://twitter.com/tanish_lande" target="blank"><img src="https://img.shields.io/twitter/follow/tanish_lande?logo=twitter&style=for-the-badge" alt="tanish_lande" /></a> </p>
+<a href="https://bit.ly/tanishLande" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a> 
 <br/>
 <p align="center">
 <ul>
