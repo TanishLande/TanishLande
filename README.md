@@ -8,10 +8,11 @@
 
 
 
-<p align="center"> <a href="https://twitter.com/tanish_lande" target="blank"><img src="https://img.shields.io/twitter/follow/tanish_lande?logo=twitter&style=for-the-badge" alt="tanish_lande" /></a> </p>
+<p align="center"> <a href="https://twitter.com/tanish_lande" target="blank"><img src="https://img.shields.io/twitter/follow/tanish_lande?logo=twitter&style=for-the-badge" alt="tanish_lande" /></a> 
 <a href="https://bit.ly/tanishLande" target="_blank" align="center">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a> 
+  </a>
+</p> 
 <br/>
 <p align="center">
 <ul>
