@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Guys!+👋;+I'm+Tanish+Lande!;" />
 </h1>
 
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate developer from <b>India</b></h3>
 
 <p style="text-align: right; margin: 0; padding: 0; position: absolute; top: 0; right: 0;">
 
@@ -36,6 +36,9 @@
   </li>        
 <ul/>
 </p>
+
+<br />
+<hr />
 
 
 <h3 align="center">Connect with me:</h3>
