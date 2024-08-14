@@ -42,7 +42,7 @@
 <hr />
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="right">Connect with me:</h3>
 <div align="left"> 
   <a href="mailto:tanishlande10@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -93,7 +93,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanishlande" alt="tanishlande" /></a> </p>
 
-<h3 align="left">Github stack:</h3>
+<h3 align="left">Github stats:</h3>
 <p align="left">
 </p>
 
