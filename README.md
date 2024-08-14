@@ -15,7 +15,7 @@
 </p> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishlande&label=Profile%20views&color=0e75b6&style=flat" alt="tanishlande" /> </p>
 <br/>
-<p align="center">
+<p align="left">
 <ul>
   <li>
       🔭 I'm currently working on Web_Development &nbsp;&nbsp <br/> 
