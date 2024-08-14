@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </p> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishlande&label=Profile%20views&color=0e75b6&style=flat" alt="tanishlande" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tanishlande&label=Profile%20views&color=0e75b6&style=flat" alt="tanishlande" /> </p>
 <br/>
 <p align="left">
 <ul>
