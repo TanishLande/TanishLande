@@ -42,7 +42,7 @@
 <hr />
 
 
-<h3 align="right">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <div align="left"> 
   <a href="mailto:tanishlande10@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
