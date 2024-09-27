@@ -24,7 +24,7 @@
       🌱 I'm currently learning <b>AIML<b/>&nbsp;&nbsp <br/>
   </li>     
   <li>
-      📝 I regularly write articles on Twitter(https://x.com/tanish_lande) &nbsp;&nbsp <br/>
+      📝 I regularly twit my projects on Twitter(https://x.com/tanish_lande) &nbsp;&nbsp <br/>
   </li>
   <li>
       💬 Ask me about Web Development, AI (neural networks), and Mobile Application Development &nbsp;&nbsp <br/>
