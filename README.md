@@ -21,7 +21,7 @@
       🔭 I'm currently working on Web_Development &nbsp;&nbsp <br/> 
   </li>
   <li>
-      🌱 I'm currently learning <b>AIML<b/>&nbsp;&nbsp <br/>
+      🌱 I'm currently learning <b>Deep learning<b/>&nbsp;&nbsp <br/>
   </li>     
   <li>
       📝 I regularly twit my projects on Twitter(https://x.com/tanish_lande) &nbsp;&nbsp <br/>
