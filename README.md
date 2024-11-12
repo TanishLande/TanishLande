@@ -11,7 +11,7 @@
  
  🔭 I'm currently working on **Web Development**
  
- 🌱 I'm currently diving deep into **Deep Learning**
+ 🌱 I'm currently diving deep into **Rust**
 
  💬 Ask me about **Web Development, AI (neural networks), Mobile Apps... or anything [here](https://github.com/tanishlande/tanishlande/issues)**
 
