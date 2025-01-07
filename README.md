@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I'm currently working on **My 2 product and with growtechie and summryai**
+ 🔭 I'm currently working on **My 2 product and also as a intern in growtechie and summryAI**
  
  🌱 I'm currently diving deep into **Rust**
 
