@@ -13,7 +13,7 @@
  
  🌱 I'm currently diving deep into **Rust**
 
- 💬 Ask me about **Web Development, AI (neural networks), Mobile Apps... or anything [here](https://github.com/tanishlande/tanishlande/issues)**
+ 💬 Ask me about **Web Development, AI (neural networks), Mobile Apps or anything... [here](https://github.com/tanishlande/tanishlande/issues)**
 
  ⚡ Fun fact **The first computer "bug" was an actual real-life bug**
  
