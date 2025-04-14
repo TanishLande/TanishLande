@@ -19,6 +19,9 @@
   <a href="https://x.com/tanish_lande" target="_blank">
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge" alt="X" />
   </a>
+  <a href="https://tanish-lande.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
 # 💻 Tech Stack:
@@ -87,7 +90,12 @@
   Do what you love and be the best at what you do even if it is the smallest thing.
 </div>
 
-
+<div align="center">
+  <h3>🚀 Check out my portfolio</h3>
+  <a href="https://tanish-lande.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-2962FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Link" />
+  </a>
+</div>
 
 <div align="center">
   <h3>👁️ Views</h3>
