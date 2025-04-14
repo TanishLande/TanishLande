@@ -9,9 +9,7 @@
 💬 Ask me about Web Development, AI (neural networks), Mobile Apps or anything tech-related!<br>
 ⚡ Fun fact: The first computer "bug" was an actual real-life bug
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanishlande&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
+
 
 ## 🌐 Connect With Me:
 <div align="center">
@@ -96,7 +94,9 @@
 
 <div align="center">
   <h3>👁️ Views</h3>
-  <img alt="Profile Views" src="https://visitcount.itsvg.in/api?id=tanishlande&icon=5&color=6" />
+ <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tanishlande&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
 </div>
 
 <div align="center">
