@@ -87,10 +87,7 @@
   Do what you love and be the best at what you do even if it is the smallest thing.
 </div>
 
-<div align="center">
-  <h3>👨‍💻 My Contributions</h3>
-  <img alt="snake eating my contributions" src="https://github.com/tanishlande/tanishlande/blob/output/github-contribution-grid-snake.svg" />
-</div>
+
 
 <div align="center">
   <h3>👁️ Views</h3>
