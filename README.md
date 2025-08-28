@@ -1,2 +1,2 @@
 I Love Developing Tech  
-Engineering is about curiosity, not a degree.  
+LeetCode profile: [tanishlande](https://leetcode.com/u/tanishlande/)
